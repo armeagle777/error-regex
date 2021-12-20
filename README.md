@@ -1,4 +1,4 @@
-# Errors-And-Regex
+# Errors-And-Regexp
 
 <p align="center">This branch is made for hometasks</p>
 
