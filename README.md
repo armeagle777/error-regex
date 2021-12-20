@@ -49,6 +49,15 @@ return the string YES. Otherwise, it must throw an Error according to the follow
 ➡️ [Solution](./gradeLabs.js)
 
 </details>
+<details>
+    <summary> 5.Regexp for exactly 4 or 6 digits</summary>
+    <br>
+
+➡️ Create a RegExp myRegExp to test if a string is a valid pin or not.
+
+➡️ [Solution](./regexp.js)
+
+</details>
 
 ## Built With
 
