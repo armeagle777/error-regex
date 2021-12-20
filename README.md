@@ -40,6 +40,15 @@ return the string YES. Otherwise, it must throw an Error according to the follow
 ➡️ [Solution](./tryCatch.js)
 
 </details>
+<details>
+    <summary> 4.Teacher's  gradeLabs function</summary>
+    <br>
+
+➡️ Trying teacher's function for all students, given in an array
+
+➡️ [Solution](./gradeLabs.js)
+
+</details>
 
 ## Built With
 
