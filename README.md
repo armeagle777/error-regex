@@ -31,6 +31,16 @@ return the string YES. Otherwise, it must throw an Error according to the follow
 
 </details>
 
+<details>
+    <summary> 3.Convert the code using try...catch.</summary>
+    <br>
+
+➡️ Convert the code using try...catch.
+
+➡️ [Solution](./tryCatch.js)
+
+</details>
+
 ## Built With
 
 - Vanilla JavaScript
